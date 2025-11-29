@@ -58,6 +58,6 @@
     "declaration": false,
     "declarationMap": false
   },
-  "exclude": ["analytics.ts"],
-  "include": ["interface.ts", "classes.ts"]
+  "exclude": ["analytics.ts","classes.ts"],
+  "include": ["interface.ts"]
 }
